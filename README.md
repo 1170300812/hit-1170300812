@@ -1,2 +1,2 @@
 # OpenSource Software 
-1170300812's Homework for OSS course.
+1170300812's homework for OSS course.
